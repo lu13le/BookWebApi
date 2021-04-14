@@ -1,0 +1,2 @@
+Kreirana je stored procedura koja ima za zadatak da pronadje najbolje placena radna mesta,
+na osnovu izracunatih prosecnih primanja zaposlenih na tim radnim mestima, prosledjuje se broj radnih mesta kao parametar.
