@@ -1,3 +1,0 @@
-Ova procedura kao argumente prihvata procenat povecanja i limit plate koji ne sme da se predje pri povecanju. 
-Zadatak procedure je da poveca platu radnika sa najmanjim platama po zadatom kriterijumu (za odredjeni procenat i
-do odredjenog limita).
